@@ -16,3 +16,7 @@
 - python save_session.py
 - Вводим Api Id, Api Hash, телефон и код подтверждения
 - В корневой папке запускаем docker-compose up
+
+
+Статья про хостинг для тг ботов:
+https://www.google.com/amp/s/habr.com/ru/amp/publications/733010/
